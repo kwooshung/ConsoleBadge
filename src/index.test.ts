@@ -3,6 +3,7 @@ import ConsoleBadge from '.';
 describe('ConsoleBadge 类的完整测试', () => {
   let consoleBadge;
   const mockConsole = jest.spyOn(console, 'log').mockImplementation();
+  const fontFamily = `DejaVu Sans,Verdana,Geneva,'Microft YaHei','Microft YaHei UI',sans-serif`;
 
   beforeEach(() => {
     consoleBadge = new ConsoleBadge();
@@ -26,7 +27,7 @@ describe('ConsoleBadge 类的完整测试', () => {
       font: {
         size: 12,
         weight: 'bold',
-        family: `DejaVu Sans,Verdana,Geneva,'Microft YaHei','Microft YaHei UI',sans-serif`,
+        family: fontFamily,
         lineHeight: 8,
         shadow: '0 1px 0 rgba(1, 1, 1, .3)'
       }
@@ -42,7 +43,7 @@ describe('ConsoleBadge 类的完整测试', () => {
       font: {
         size: 12,
         weight: 'normal',
-        family: `DejaVu Sans,Verdana,Geneva,'Microft YaHei','Microft YaHei UI',sans-serif`,
+        family: fontFamily,
         lineHeight: 8,
         shadow: '0 1px 0 rgba(1, 1, 1, .3)'
       }
@@ -291,8 +292,8 @@ describe('ConsoleBadge 类的完整测试', () => {
 
   it('fontFamily 方法仅使用第一个参数的默认值', () => {
     consoleBadge.fontFamily();
-    expect(consoleBadge.leftStyle.font.family).toBe(`DejaVu Sans,Verdana,Geneva,'Microft YaHei','Microft YaHei UI',sans-serif`);
-    expect(consoleBadge.rightStyle.font.family).toBe(`DejaVu Sans,Verdana,Geneva,'Microft YaHei','Microft YaHei UI',sans-serif`);
+    expect(consoleBadge.leftStyle.font.family).toBe(fontFamily);
+    expect(consoleBadge.rightStyle.font.family).toBe(fontFamily);
   });
 
   it('fontFamily 方法只传递第一个参数时，第二个参数应使用第一个参数的值', () => {
@@ -339,7 +340,7 @@ describe('ConsoleBadge 类的完整测试', () => {
 
   it('leftFontFamily 使用默认值', () => {
     consoleBadge.leftFontFamily();
-    expect(consoleBadge.leftStyle.font.family).toBe(`DejaVu Sans,Verdana,Geneva,'Microft YaHei','Microft YaHei UI',sans-serif`);
+    expect(consoleBadge.leftStyle.font.family).toBe(fontFamily);
   });
 
   it('leftFontFamily 传递自定义值', () => {
@@ -397,7 +398,7 @@ describe('ConsoleBadge 类的完整测试', () => {
 
   it('rightFontFamily 使用默认值', () => {
     consoleBadge.rightFontFamily();
-    expect(consoleBadge.rightStyle.font.family).toBe(`DejaVu Sans,Verdana,Geneva,'Microft YaHei','Microft YaHei UI',sans-serif`);
+    expect(consoleBadge.rightStyle.font.family).toBe(fontFamily);
   });
 
   it('rightFontFamily 传递自定义值', () => {
