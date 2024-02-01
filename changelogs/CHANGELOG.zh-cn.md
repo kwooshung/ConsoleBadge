@@ -1,3 +1,7 @@
+## 🎉 1.0.1 `2024-02-02`
+### 🐛 Fix
+- 重复包装名称，忘了修改 ([#86970de](https://github.com/kwooshung/files/commit/86970de6d0e9deb54e3fc2ab66c89bc0a6c64e87))
+
 ## 🎉 1.0.0 `2024-02-02`
 ### 🐛 Fix
 - 版本号被撤销，从1.0.0开始，节点版本升级，可以成功发布测试 ([#94a3e8f](https://github.com/kwooshung/files/commit/94a3e8f5ee4b5ce34e507948b6c66d956148203c))
@@ -11,4 +15,3 @@
 - 控制站徽章功能的基本功能已完成，并且可以正式使用。 ([#90a6fb5](https://github.com/kwooshung/files/commit/90a6fb5016c67c44c9c57e0fc632d9a82c831abd))
 ### 📚 
 - 创建readme.md ([#8dd1111](https://github.com/kwooshung/files/commit/8dd1111bc8584d9f0f6fe4461019f43b4b625bf8))
-
