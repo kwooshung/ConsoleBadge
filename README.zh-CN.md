@@ -1,6 +1,6 @@
 <div align="center">
 
-# @kwooshung/ConsoleBadge
+# @kwooshung/console-badge
 
 ![GitHub Release Date - Published_At](https://img.shields.io/github/release-date/kwooshung/ConsoleBadge?labelColor=272e3b&color=00b42A&logo=github)
 ![GitHub last commit](https://img.shields.io/github/last-commit/kwooshung/ConsoleBadge?labelColor=272e3b&color=165dff)
