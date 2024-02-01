@@ -18,27 +18,27 @@
 ![Github Stars](https://img.shields.io/github/stars/kwooshung/ConsoleBadge?labelColor=272e3b&color=165dff)
 
 <p align="center">
-    <a href="README.zh-CN.md">中文</a> | 
-    <a href="README.md" style="font-weight:700;color:#165dff;text-decoration:underline;">English</a>
+    <a href="README.md">English</a> | 
+    <a href="README.zh-CN.md" style="font-weight:700;color:#165dff;text-decoration:underline;">中文</a>
 </p>
 </div>
 
-# Why Develop It?
+# 为什么开发它？
 
-In open source programs, there are various badges, just like the badges shown above; I hope that such badges can also be displayed in the console to facilitate the display of current program information, such as version number, build time, build status, etc. and other information.
+在开源程序中，存在各种各样的徽章，就上面所展示的徽章一样；我希望在控制台中也能显示这样的徽章，方便展示当前程序的信息，比如版本号、构建时间、构建状态等等信息。
 
-# Why Use It?
+# 为什么使用它？
 
-- Supports bilingual annotations in both Chinese and English;
-- Low learning cost, chain calling, simple and flexible use;
-- Implemented with modern features of **ES6**;
-- Written in **TypeScript** for type safety;
-- Pure script, can depend on any framework, any platform, any environment;
-- Supports on-demand import, `esm` modularization, natively supports **tree-shaking**, no worries about the size after packaging;
-- Of course, this project also provides a `commonjs` standard `cjs` version;
-- Test coverage of **100%**.
+- 支持中英文双语注释；
+- 学习成本低，链式调用，使用简单且灵活；
+- **ES6** 的现代特性实现；
+- **TypeScript** 编写，类型安全；
+- 纯脚本，你可以依赖于任何框架，任何平台，任何环境；
+- 可按需引入，`esm` 模块化，支持天生支持 **树摇（tree-shaking）**，不用担心打包后的体积；
+- 当然本项目也提供了 `commonjs` 规范的 `cjs` 版本；
+- 测试覆盖率 **100%**；
 
-# Install
+# 安装
 
 ## npm
 
@@ -58,25 +58,25 @@ yarn add @kwooshung/console-badge
 pnpm add @kwooshung/console-badge
 ```
 
-# Usage
+# 使用方法
 
-## Basic Usage:
+## 基本用法如下：
 
 ```typescript
 import ConsoleBadge from 'console-badge';
 
 const cb = new ConsoleBadge('version', 'v1.2.3');
-cb.[various configuration functions, supporting chain calls].print();
+cb.[这里是各种设置函数，支持链式调用].print();
 ```
 
-## Demo Screenshot
+## 演示截图
 
-> Below is a demonstration of some of the functions;
+> 以下只演示了部分函数功能；
 
 ![ConsoleBadge 演示截图](./docs/images/demo.png)
 
-## Why are the functions not listed here?
+## 有哪些函数，为什么不在这里列出？
 
-- Initially, I thought of listing them, but considering the simplicity of use and straightforward code, it's better to view the source code directly [Click here to view the source code](./src/index.ts).
-  The function names are quite intuitive, so there's no need to worry about understanding them.
-  If you're using TypeScript, you'll get prompts, and the comments are in both Chinese and English, making it very simple to use. There's nothing to worry about.
+- 本来想列出来的，但是考虑到使用简单，代码也简单，直接看源码就好了 [戳这里，直接看源码](./src/index.ts)。
+- 函数命名都很直观，不需要担心看不懂。
+- 如果你用的是ts，本身也会有提示，而且注释有中英文双语，使用非常简单，没有什么好担心的。
