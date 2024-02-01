@@ -1,6 +1,6 @@
 {
   "name": "console-badge",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "title": "ConsoleBadge",
   "description": "Output beautiful badges in the console, supporting right angles, rounded corners, color and other settings",
   "private": false,
