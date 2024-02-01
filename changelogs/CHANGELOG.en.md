@@ -1,3 +1,7 @@
+## 🎉 1.0.2 `2024-02-02`
+### 🐛 Fix
+- Increase font variables and avoid increasing the test function, too many repeated code ([#02c10c6](https://github.com/kwooshung/files/commit/02c10c6a0b3f40a364a9e8844207d8366ac4639a))
+
 ## 🎉 1.0.1 `2024-02-02`
 ### 🐛 Fix
 - Quality Test badges address ([#466b822](https://github.com/kwooshung/files/commit/466b822fc2b821fee96b0242a0e49a8bf994eb56))
