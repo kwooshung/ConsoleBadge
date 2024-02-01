@@ -73,10 +73,10 @@ cb.[various configuration functions, supporting chain calls].print();
 
 > Below is a demonstration of some of the functions;
 
-![ConsoleBadge 演示截图](./docs/images/demo.png)
+![ConsoleBadge Demo Screenshot](./docs/images/demo.png)
 
 ## Why are the functions not listed here?
 
 - Initially, I thought of listing them, but considering the simplicity of use and straightforward code, it's better to view the source code directly [Click here to view the source code](./src/index.ts).
-  The function names are quite intuitive, so there's no need to worry about understanding them.
-  If you're using TypeScript, you'll get prompts, and the comments are in both Chinese and English, making it very simple to use. There's nothing to worry about.
+- The function names are quite intuitive, so there's no need to worry about understanding them.
+- If you're using TypeScript, you'll get prompts, and the comments are in both Chinese and English, making it very simple to use. There's nothing to worry about.
