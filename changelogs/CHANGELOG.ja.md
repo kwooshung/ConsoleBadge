@@ -1,3 +1,7 @@
+## 🎉 1.0.2 `2024-02-02`
+### 🐛 Fix
+- 更新された部分依存関係と依存関係に関連する構成 ([#f823a9f](https://github.com/kwooshung/files/commit/f823a9f45ac5c7e93365fb82b43c1cbc5085b894))
+
 ## 🎉 1.0.1 `2024-02-02`
 ### 🐛 Fix
 - ハスキー構成を修正します ([#6e12fee](https://github.com/kwooshung/files/commit/6e12feeafce60daf3dcdf82138d95c66fb73dd1d))

@@ -1,3 +1,7 @@
+## 🎉 1.0.2 `2024-02-02`
+### 🐛 Fix
+- 更新的部分依赖关系和依赖关系相关配置 ([#f823a9f](https://github.com/kwooshung/files/commit/f823a9f45ac5c7e93365fb82b43c1cbc5085b894))
+
 ## 🎉 1.0.1 `2024-02-02`
 ### 🐛 Fix
 - 修复沙哑的配置 ([#6e12fee](https://github.com/kwooshung/files/commit/6e12feeafce60daf3dcdf82138d95c66fb73dd1d))
