@@ -1,3 +1,7 @@
+## 🎉 1.0.1 `2024-02-02`
+### 🐛 Fix
+- 高品質のテストバッジアドレス ([#466b822](https://github.com/kwooshung/files/commit/466b822fc2b821fee96b0242a0e49a8bf994eb56))
+
 ## 🎉 1.0.0 `2024-02-02`
 ### 🐛 Fix
 - ドキュメントのプロジェクトNPMバッジリンクアドレスを修復する ([#561eeba](https://github.com/kwooshung/files/commit/561eeba8dbd4080df1f034f5a9912acff4277ced))
@@ -15,4 +19,3 @@
 - コントロールステーションバッジ関数の基本機能が完了し、正式に使用できます。 ([#90a6fb5](https://github.com/kwooshung/files/commit/90a6fb5016c67c44c9c57e0fc632d9a82c831abd))
 ### 📚 
 - readme.mdを作成します ([#8dd1111](https://github.com/kwooshung/files/commit/8dd1111bc8584d9f0f6fe4461019f43b4b625bf8))
-

@@ -1,3 +1,7 @@
+## 🎉 1.0.1 `2024-02-02`
+### 🐛 Fix
+- 품질 테스트 배지 주소 ([#466b822](https://github.com/kwooshung/files/commit/466b822fc2b821fee96b0242a0e49a8bf994eb56))
+
 ## 🎉 1.0.0 `2024-02-02`
 ### 🐛 Fix
 - 문서에서 프로젝트 NPM 배지 링크 주소를 수리하십시오. ([#561eeba](https://github.com/kwooshung/files/commit/561eeba8dbd4080df1f034f5a9912acff4277ced))
@@ -15,4 +19,3 @@
 - 제어 스테이션 배지 기능의 기본 기능이 완료되며 공식적으로 사용할 수 있습니다. ([#90a6fb5](https://github.com/kwooshung/files/commit/90a6fb5016c67c44c9c57e0fc632d9a82c831abd))
 ### 📚 
 - readme.md를 만듭니다 ([#8dd1111](https://github.com/kwooshung/files/commit/8dd1111bc8584d9f0f6fe4461019f43b4b625bf8))
-
