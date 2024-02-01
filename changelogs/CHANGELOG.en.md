@@ -1,3 +1,7 @@
+## 🎉 1.0.1 `2024-02-02`
+### 🐛 Fix
+- The package name is repeated, forgot to modify ([#86970de](https://github.com/kwooshung/files/commit/86970de6d0e9deb54e3fc2ab66c89bc0a6c64e87))
+
 ## 🎉 1.0.0 `2024-02-02`
 ### 🐛 Fix
 - The version number is revoked, starting from 1.0.0, the node version upgrade, the test can be released successfully ([#94a3e8f](https://github.com/kwooshung/files/commit/94a3e8f5ee4b5ce34e507948b6c66d956148203c))
@@ -11,4 +15,3 @@
 - The basic function of the control station badge function is completed, and it can be formally used. ([#90a6fb5](https://github.com/kwooshung/files/commit/90a6fb5016c67c44c9c57e0fc632d9a82c831abd))
 ### 📚 
 - Create README.md ([#8dd1111](https://github.com/kwooshung/files/commit/8dd1111bc8584d9f0f6fe4461019f43b4b625bf8))
-
