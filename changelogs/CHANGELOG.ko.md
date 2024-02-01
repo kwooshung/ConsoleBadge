@@ -1,3 +1,7 @@
+## 🎉 1.0.3 `2024-02-02`
+### 🐛 Fix
+- 패키지 이름을 수리하십시오 ([#4cec892](https://github.com/kwooshung/files/commit/4cec8928131638f5bb2da660b4772b3030fcbc39))
+
 ## 🎉 1.0.2 `2024-02-02`
 ### 🐛 Fix
 - 글꼴 변수를 늘리고 테스트 기능을 증가시키지 않으면 너무 많은 반복 코드 ([#02c10c6](https://github.com/kwooshung/files/commit/02c10c6a0b3f40a364a9e8844207d8366ac4639a))

@@ -1,3 +1,7 @@
+## 🎉 1.0.3 `2024-02-02`
+### 🐛 Fix
+- Repair package name ([#4cec892](https://github.com/kwooshung/files/commit/4cec8928131638f5bb2da660b4772b3030fcbc39))
+
 ## 🎉 1.0.2 `2024-02-02`
 ### 🐛 Fix
 - Increase font variables and avoid increasing the test function, too many repeated code ([#02c10c6](https://github.com/kwooshung/files/commit/02c10c6a0b3f40a364a9e8844207d8366ac4639a))
