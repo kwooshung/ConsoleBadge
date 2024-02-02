@@ -14,7 +14,7 @@
 [![codecov](https://codecov.io/gh/kwooshung/ConsoleBadge/graph/badge.svg?token=VVZJE7H0KD)](https://codecov.io/gh/kwooshung/ConsoleBadge)
 [![Maintainability](https://api.codeclimate.com/v1/badges/662609ca5c84f9a6357e/maintainability)](https://codeclimate.com/github/kwooshung/ConsoleBadge/maintainability)
 [![GitHub License](https://img.shields.io/github/license/kwooshung/ConsoleBadge?labelColor=272e3b&color=165dff)](LICENSE)
-[![Gitee Repo](https://img.shields.io/badge/gitee-OasisEditor-165dff?logo=gitee)](https://gitee.com/kwooshung/OasisEditor/)
+[![Gitee Repo](https://img.shields.io/badge/gitee-ConsoleBadge-165dff?logo=gitee)](https://gitee.com/kwooshung/ConsoleBadge/)
 ![Github Stars](https://img.shields.io/github/stars/kwooshung/ConsoleBadge?labelColor=272e3b&color=165dff)
 
 <p align="center">
