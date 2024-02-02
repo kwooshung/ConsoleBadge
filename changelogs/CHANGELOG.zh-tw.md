@@ -1,3 +1,7 @@
+## 🎉 1.0.4 `2024-02-02`
+### 🐛 Fix
+- Gitee倉庫地址錯誤 ([#0434dd0](https://github.com/kwooshung/files/commit/0434dd0e228d635fddd27f7c832ff8791323fe06))
+
 ## 🎉 1.0.3 `2024-02-02`
 ### 🐛 Fix
 - 維修包的名稱 ([#4cec892](https://github.com/kwooshung/files/commit/4cec8928131638f5bb2da660b4772b3030fcbc39))
