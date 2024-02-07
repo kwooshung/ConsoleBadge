@@ -34,7 +34,7 @@
 - **ES6** 的现代特性实现；
 - **TypeScript** 编写，类型安全；
 - 纯脚本，你可以依赖于任何框架，任何平台，任何环境；
-- 可按需引入，`esm` 模块化，支持天生支持 **树摇（tree-shaking）**，不用担心打包后的体积；
+- 可按需引入，`esm` 模块化，天生支持 **树摇（tree-shaking）**，不用担心打包后的体积；
 - 当然本项目也提供了 `commonjs` 规范的 `cjs` 版本；
 - 测试覆盖率 **100%**；
 
@@ -63,7 +63,7 @@ pnpm add @kwooshung/console-badge
 ## 基本用法如下：
 
 ```typescript
-import ConsoleBadge from 'console-badge';
+import ConsoleBadge from '@kwooshung/console-badge';
 
 const cb = new ConsoleBadge('version', 'v1.2.3');
 cb.[这里是各种设置函数，支持链式调用].print();
