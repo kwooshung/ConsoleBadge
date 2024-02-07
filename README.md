@@ -63,7 +63,7 @@ pnpm add @kwooshung/console-badge
 ## Basic Usage:
 
 ```typescript
-import ConsoleBadge from 'console-badge';
+import ConsoleBadge from '@kwooshung/console-badge';
 
 const cb = new ConsoleBadge('version', 'v1.2.3');
 cb.[various configuration functions, supporting chain calls].print();
