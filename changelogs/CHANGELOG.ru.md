@@ -1,3 +1,7 @@
+## 🎉 1.0.5 `2024-02-07`
+### 🐛 Fix
+- Случаи импорта кода ремонта ([#6dfdde8](https://github.com/kwooshung/files/commit/6dfdde82ceb4a75bc662e9da9d0aef3e67fc9a66))
+
 ## 🎉 1.0.4 `2024-02-02`
 ### 🐛 Fix
 - Ошибка адреса склада Gitee ([#0434dd0](https://github.com/kwooshung/files/commit/0434dd0e228d635fddd27f7c832ff8791323fe06))
