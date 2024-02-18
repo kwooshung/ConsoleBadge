@@ -1,3 +1,7 @@
+## 🎉 1.0.6 `2024-02-18`
+### 🐛 Fix
+- 依存関係を更新します ([#7599104](https://github.com/kwooshung/ConsoleBadge/commit/7599104db7f9cef3499f91062ad449372a5c4eb6))
+
 ## 🎉 1.0.5 `2024-02-07`
 ### 🐛 Fix
 - コードのインポートケースを修理します ([#6dfdde8](https://github.com/kwooshung/files/commit/6dfdde82ceb4a75bc662e9da9d0aef3e67fc9a66))

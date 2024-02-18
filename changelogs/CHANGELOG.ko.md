@@ -1,3 +1,7 @@
+## 🎉 1.0.6 `2024-02-18`
+### 🐛 Fix
+- 의존성 업데이트 ([#7599104](https://github.com/kwooshung/ConsoleBadge/commit/7599104db7f9cef3499f91062ad449372a5c4eb6))
+
 ## 🎉 1.0.5 `2024-02-07`
 ### 🐛 Fix
 - 코드 가져 오기 케이스를 수리하십시오 ([#6dfdde8](https://github.com/kwooshung/files/commit/6dfdde82ceb4a75bc662e9da9d0aef3e67fc9a66))
