@@ -1,3 +1,7 @@
+## 🎉 1.0.7 `2024-02-18`
+### 🐛 Fix
+- 로그에서 오류 링크를 업데이트하십시오 ([#f31d112](https://github.com/kwooshung/ConsoleBadge/commit/f31d112b9f9b1e5e4015e724f47b2c45c2228505))
+
 ## 🎉 1.0.6 `2024-02-18`
 ### 📦 Release
 - 새로운 버전 1.0.6 ([#3838f0c](https://github.com/kwooshung/ConsoleBadge/commit/3838f0cbc3e5adc391d060754fc7adaac2a3e583))
